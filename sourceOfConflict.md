@@ -2,11 +2,11 @@
 
  # Client-approved header
 
-* List
-* of
-* bullet
-* points
+1. List
+1. of
+1. bullet
+1. points
 
-<p>There is a bug in this file</p>
+There is no bug in this file.
 
 Here is a new paragraph of text that the client asked for.

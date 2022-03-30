@@ -1,10 +1,12 @@
- ![banner](img/kitten.jpg)
+ ![banner](img/castle.jpg)
 
- # Lorem ipsum sic header
+ # Client-approved header
 
-* List
-* of
-* bullet
-* points
+1. List
+1. of
+1. bullet
+1. points
 
-<p> There <span style="color:red">is a bug</span> in this file</p>
+There is no bug in this file.
+
+Here is a new paragraph of text that the client asked for.
